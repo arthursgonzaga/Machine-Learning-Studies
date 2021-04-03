@@ -2,8 +2,6 @@
 
 Estudos acerca de Machine Learning na trilha de aprendizado da Alura.
 
-![GitHub Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl5Xu-T4-nc9bxvkM4n2o8a_KUFJBVbYXnNQ&usqp=CAU)
-
 ## Organização do Repositório:
 
 1. Machine_Learning_Classificadores_e_SKLearn
