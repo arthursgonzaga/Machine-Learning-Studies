@@ -31,6 +31,6 @@ Nota: tive que rodar este notebook no Colab, pois a biblioteca Biokit não foi i
 
 ### Clusterização: Extraindo Padrões de Dados
 
-Iniciando a aula com um dataset relacionado a cartões de créditos. O objetivo é separar clientes em grupos semelhantes. Realizado o pré-tratamento de dados faltantes e visualizado os primeiros parâmetros de silhoutte. Continuará com o teste de mais alguns métodos comparativos.
+Iniciando a aula com um dataset relacionado a cartões de créditos. O objetivo é separar clientes em grupos semelhantes. Realizado o pré-tratamento de dados faltantes e visualizado os primeiros parâmetros de silhoutte. Feita a análise de agrupamento e semelhança com os métodos de Davies-Bouldin e Calinski-Harabasz. Segregado por variância as melhores features e trabalhado para separar os grupos desta forma.
 
-#### Tópicos Principais: Métodos de Comparação.
+#### Tópicos Principais: Métodos de Comparação, Silhouette, Davies-Bouldin e Calinski-Harabasz.
