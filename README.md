@@ -33,4 +33,10 @@ Nota: tive que rodar este notebook no Colab, pois a biblioteca Biokit não foi i
 
 Iniciando a aula com um dataset relacionado a cartões de créditos. O objetivo é separar clientes em grupos semelhantes. Realizado o pré-tratamento de dados faltantes e visualizado os primeiros parâmetros de silhoutte. Feita a análise de agrupamento e semelhança com os métodos de Davies-Bouldin e Calinski-Harabasz. Segregado por variância as melhores features e trabalhado para separar os grupos desta forma.
 
-#### Tópicos Principais: Métodos de Comparação, Silhouette, Davies-Bouldin e Calinski-Harabasz.
+#### Tópicos Principais: Métodos de Comparação, Silhouette, Davies-Bouldin e Calinski-Harabasz
+
+### Validação de Modelos
+
+Abordagem de métodos para estratificação, validação cruzada e o efeito da aleatoriedade no desenvolvimento de um modelo.
+
+#### Tópicos Principais: K-Fold, Árvore de Decisão e Validação Cruzada
