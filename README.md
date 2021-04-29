@@ -40,3 +40,9 @@ Iniciando a aula com um dataset relacionado a cartões de créditos. O objetivo 
 Abordagem de métodos para estratificação, validação cruzada e o efeito da aleatoriedade no desenvolvimento de um modelo.
 
 #### Tópicos Principais: K-Fold, Árvore de Decisão e Validação Cruzada
+
+### Otimização de Modelos
+
+Iniciada a otimização de modelos utilizado ferramentos como o GridSearch. Foi realizada a exploração manual dos melhores hiperparâmetros através da correlação e também a exploração automatizada utilizando o GridSearchCV. Visto que o GridSearch consome muito poder computacional, validamos a busca dos hiperparametros pelo RandomizedSearchCV. Analisado sem validação cruzada o processo de retirada de mais uma amostra (agora chamado de validação), para concretização do modelo.
+
+#### Tópicos Principais: Hiperparâmetros, GridSearch, Correlação, RandomizedSearch
