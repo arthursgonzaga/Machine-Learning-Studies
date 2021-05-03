@@ -4,19 +4,19 @@ Estudos acerca de Machine Learning na trilha de aprendizado da Alura.
 
 ## Organização do Repositório
 
-### Machine_Learning_Classificadores_e_SKLearn
+### Classificadores e SKLearn
 
 Introdução ao Machine Learning, colocando os parâmetros principais de Support Vector Machine (modelos lineares) para predição. Visto também os impactos da seleção correta dos arquivos de teste e treino.
 
 #### Tópicos Principais: SVM e LinearSVM
 
-### Machine_Learning_Classificação_por_trás_dos_Panos
+### Classificação Por Trás dos Panos
 
 Utilizando os conceitos apresentados anteriormente para estudo dos algoritmos Bayesianos (Naive Bayes). Mostrado o algoritmo de baseline e também a utilização de variáveis categóricas para ML. Por fim, realizando uma comparação com o algoritmo de AdaBoost.
 
 #### Tópicos Principais: Naive Bayes e AdaBoost
 
-### Machine_Learning_Lidando_com_Altas_Dimensões
+### Lidando com Altas Dimensões
 
 Pré-tratamento analítico utilizando matriz de correlação, desvios padrões e valores nulos. Utilizado também modelos de seleção de features como o RFE e o KBest. Feita a redução do número de features para dataviz, utilizando o RFECV e o PCA.
 
@@ -49,6 +49,6 @@ Iniciada a otimização de modelos utilizado ferramentos como o GridSearch. Foi 
 
 ### Deep Learning: Introdução ao Keras
 
-Com as bibliotecas TensorFlow e Keras, foi realizada a criação de uma rede neural para classificação de tipos de roupas (camisetas, camisas, bolsas, botas, etc). No conteúdo, aborda-se a normalização e os conceitos de overfitting e underfitting. Épocas, validação e número de camadas foram alguns parâmetros testados no modelo para melhoria da acurácia e minimização das perdas. Por fim, realizada a exportação do modelo, que pode ser encontrado neste [link](https://github.com/arthursgonzaga/Machine-Learning-Studies/Modelos).
+Com as bibliotecas TensorFlow e Keras, foi realizada a criação de uma rede neural para classificação de tipos de roupas (camisetas, camisas, bolsas, botas, etc). No conteúdo, aborda-se a normalização e os conceitos de overfitting e underfitting. Épocas, validação e número de camadas foram alguns parâmetros testados no modelo para melhoria da acurácia e minimização das perdas. Por fim, realizada a exportação do modelo, que pode ser encontrado neste [link](https://github.com/arthursgonzaga/Machine-Learning-Studies/tree/main/Modelos).
 
 #### Tópicos Principais: Keras, Redes Neurais, Camadas, TensorFlow
