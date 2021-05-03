@@ -46,3 +46,9 @@ Abordagem de métodos para estratificação, validação cruzada e o efeito da a
 Iniciada a otimização de modelos utilizado ferramentos como o GridSearch. Foi realizada a exploração manual dos melhores hiperparâmetros através da correlação e também a exploração automatizada utilizando o GridSearchCV. Visto que o GridSearch consome muito poder computacional, validamos a busca dos hiperparametros pelo RandomizedSearchCV. Analisado sem validação cruzada o processo de retirada de mais uma amostra (agora chamado de validação), para concretização do modelo.
 
 #### Tópicos Principais: Hiperparâmetros, GridSearch, Correlação, RandomizedSearch
+
+### Deep Learning: Introdução ao Keras
+
+Com as bibliotecas TensorFlow e Keras, foi realizada a criação de uma rede neural para classificação de tipos de roupas (camisetas, camisas, bolsas, botas, etc). No conteúdo, aborda-se a normalização e os conceitos de overfitting e underfitting. Épocas, validação e número de camadas foram alguns parâmetros testados no modelo para melhoria da acurácia e minimização das perdas. Por fim, realizada a exportação do modelo, que pode ser encontrado neste [link](https://github.com/arthursgonzaga/Machine-Learning-Studies/Modelos).
+
+#### Tópicos Principais: Keras, Redes Neurais, Camadas, TensorFlow
